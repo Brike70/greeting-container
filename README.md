@@ -1,4 +1,4 @@
-# DevOps Interview Task (Part 1): Containerize
+# Task (Part 1): Containerize
 
 **This is a take-home task.** Please submit by the date given when the task was
 issued.
